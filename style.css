@@ -1,0 +1,17 @@
+.container{
+    width: 1000px;
+    background-color: darkolivegreen;
+    font-family: fantasy;
+}
+article{
+    margin: 2px black solid;
+    text-align: justify;
+}
+.imagenes{
+
+    display: inline-block;
+    vertical-align: top;
+}
+h1{
+    text-align: center;
+}
