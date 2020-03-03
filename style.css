@@ -6,12 +6,29 @@
 article{
     margin: 2px black solid;
     text-align: justify;
+    margin-bottom: 40px;
+}
+.images{
+    width: 100%;
+    text-align: center;
+    margin-bottom: 30px;
 }
 .imagenes{
-
+    width: 650px;
+    border: 3px grey solid;
     display: inline-block;
     vertical-align: top;
+    background-color: darkgrey;
 }
 h1{
     text-align: center;
+}
+.titulo{
+    width: 30px;
+}
+.foto{
+    width: 300px;
+    height: 350px;
+    border: 1px brown solid;
+    margin: 10px;
 }
